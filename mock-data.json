@@ -1,0 +1,402 @@
+[
+  {
+    "company": "Browsecat",
+    "position": "GIS Technical Architect",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-06-02T01:23:16Z"
+  },
+  {
+    "company": "Demizz",
+    "position": "Senior Cost Accountant",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-02-03T08:25:47Z"
+  },
+  {
+    "company": "Thoughtbridge",
+    "position": "Environmental Tech",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-08-30T00:43:57Z"
+  },
+  {
+    "company": "Thoughtstorm",
+    "position": "Systems Administrator I",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-03-03T06:40:53Z"
+  },
+  {
+    "company": "Fiveclub",
+    "position": "Compensation Analyst",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-05-23T08:59:44Z"
+  },
+  {
+    "company": "Oyoyo",
+    "position": "Information Systems Manager",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-08-10T07:37:06Z"
+  },
+  {
+    "company": "Youfeed",
+    "position": "Media Manager III",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-10-06T15:12:24Z"
+  },
+  {
+    "company": "Skyble",
+    "position": "Recruiter",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-01-17T05:05:05Z"
+  },
+  {
+    "company": "Divanoodle",
+    "position": "Accountant IV",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-08-10T10:08:51Z"
+  },
+  {
+    "company": "Gabvine",
+    "position": "Computer Systems Analyst III",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2022-12-30T02:37:35Z"
+  },
+  {
+    "company": "Pixonyx",
+    "position": "Product Engineer",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-05-04T23:05:35Z"
+  },
+  {
+    "company": "Zoomdog",
+    "position": "Human Resources Assistant III",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-07-13T05:04:36Z"
+  },
+  {
+    "company": "Kazu",
+    "position": "Computer Systems Analyst IV",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-09-27T18:22:31Z"
+  },
+  {
+    "company": "Tanoodle",
+    "position": "GIS Technical Architect",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-10-05T01:48:31Z"
+  },
+  {
+    "company": "Photobean",
+    "position": "Human Resources Manager",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-01-03T07:10:25Z"
+  },
+  {
+    "company": "Jabberbean",
+    "position": "Environmental Tech",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2022-11-23T03:29:06Z"
+  },
+  {
+    "company": "Skyble",
+    "position": "Internal Auditor",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-05-01T19:30:54Z"
+  },
+  {
+    "company": "Dazzlesphere",
+    "position": "GIS Technical Architect",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-04-06T00:39:17Z"
+  },
+  {
+    "company": "Quinu",
+    "position": "Chemical Engineer",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-11-02T23:18:36Z"
+  },
+  {
+    "company": "Vidoo",
+    "position": "Account Coordinator",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-07-25T14:39:56Z"
+  },
+  {
+    "company": "Twinte",
+    "position": "Teacher",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-10-09T23:16:53Z"
+  },
+  {
+    "company": "Vinder",
+    "position": "General Manager",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-05-14T17:24:05Z"
+  },
+  {
+    "company": "Blogspan",
+    "position": "Biostatistician II",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-03-11T00:37:44Z"
+  },
+  {
+    "company": "Voomm",
+    "position": "Nurse Practicioner",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-08-18T22:28:58Z"
+  },
+  {
+    "company": "Feedfire",
+    "position": "Administrative Officer",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-03-10T18:36:35Z"
+  },
+  {
+    "company": "Feedfire",
+    "position": "Community Outreach Specialist",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-12-06T04:29:54Z"
+  },
+  {
+    "company": "Yodoo",
+    "position": "Civil Engineer",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2022-12-06T08:27:26Z"
+  },
+  {
+    "company": "Jaloo",
+    "position": "Civil Engineer",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-06-03T15:47:38Z"
+  },
+  {
+    "company": "Eamia",
+    "position": "Paralegal",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2022-07-19T16:21:01Z"
+  },
+  {
+    "company": "Jabbersphere",
+    "position": "Librarian",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-05-15T20:17:46Z"
+  },
+  {
+    "company": "Zoombox",
+    "position": "Office Assistant III",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-06-13T09:12:36Z"
+  },
+  {
+    "company": "Meemm",
+    "position": "Business Systems Development Analyst",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2022-09-19T00:08:01Z"
+  },
+  {
+    "company": "Brightdog",
+    "position": "Computer Systems Analyst IV",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2022-08-07T15:38:54Z"
+  },
+  {
+    "company": "Twimbo",
+    "position": "Director of Sales",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-12-13T15:59:17Z"
+  },
+  {
+    "company": "Youspan",
+    "position": "Paralegal",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-04-19T23:28:30Z"
+  },
+  {
+    "company": "Gabcube",
+    "position": "Librarian",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2022-12-31T06:31:58Z"
+  },
+  {
+    "company": "Cogilith",
+    "position": "VP Sales",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-07-09T05:55:39Z"
+  },
+  {
+    "company": "Fiveclub",
+    "position": "Human Resources Manager",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-08-14T02:39:46Z"
+  },
+  {
+    "company": "Flashspan",
+    "position": "Analog Circuit Design manager",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-02-07T01:29:34Z"
+  },
+  {
+    "company": "Ooba",
+    "position": "Software Engineer IV",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-09-11T15:12:16Z"
+  },
+  {
+    "company": "Mynte",
+    "position": "Automation Specialist IV",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-06-03T00:02:51Z"
+  },
+  {
+    "company": "Skibox",
+    "position": "Accountant II",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-06-10T03:08:15Z"
+  },
+  {
+    "company": "Zazio",
+    "position": "Environmental Tech",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2022-11-11T17:02:39Z"
+  },
+  {
+    "company": "Kwilith",
+    "position": "Statistician III",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-12-21T00:14:25Z"
+  },
+  {
+    "company": "Photobug",
+    "position": "Operator",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2024-05-12T11:57:40Z"
+  },
+  {
+    "company": "Meeveo",
+    "position": "Technical Writer",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-08-18T19:54:01Z"
+  },
+  {
+    "company": "Vidoo",
+    "position": "Product Engineer",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-11-05T16:07:20Z"
+  },
+  {
+    "company": "Realpoint",
+    "position": "Account Coordinator",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-04-03T21:42:30Z"
+  },
+  {
+    "company": "Rhybox",
+    "position": "Help Desk Operator",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-03-13T10:40:11Z"
+  },
+  {
+    "company": "Wikizz",
+    "position": "Information Systems Manager",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "670fc9a3cae98fe82c3ebb49",
+    "createdAt": "2023-02-08T14:51:51Z"
+  }
+]
